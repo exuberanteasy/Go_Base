@@ -2,4 +2,4 @@
 
 
 新東西
-E
+English
